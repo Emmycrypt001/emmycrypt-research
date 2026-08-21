@@ -1,137 +1,166 @@
-EMMYCRYPT Research
+# EMMYCRYPT
 
-Web3 Research • On-Chain Intelligence • DeFi • Tokenomics • Market Analysis
+### Web3 Researcher | DeFi & On-Chain Intelligence
 
-EMMYCRYPT is an independent Web3 research portfolio focused on transforming blockchain data, protocol information, and market activity into structured, evidence-based intelligence.
+I research what is happening beneath the headlines.
 
-The goal is simple: research first, evidence always, conclusions clearly presented.
+My work focuses on DeFi protocols, on-chain activity, token economics, wallet movements, capital flows, and the relationship between blockchain activity and economic value.
 
----
+The approach is simple:
 
-🔎 About EMMYCRYPT
-
-EMMYCRYPT researches decentralized finance, blockchain protocols, token economics, on-chain activity, and emerging Web3 markets.
-
-Research is organized to identify important developments, investigate the underlying data, evaluate risks and opportunities, and communicate findings in a clear and reproducible format.
+**Research first. Evidence always. Conclusions clearly presented.**
 
 ---
 
-🎯 Research Focus
+## 🔎 What I Research
 
 - DeFi protocols and ecosystems
-- On-chain activity and wallet behavior
-- Tokenomics and token distribution
+- On-chain activity and wallet behaviour
+- Token economics and value capture
 - Protocol fundamentals
+- Capital flows and exchange movements
+- Ethereum and L2 ecosystems
+- Solana ecosystem activity
 - Market intelligence
-- Blockchain ecosystems
-- Web3 trends and emerging narratives
-- Risk and opportunity analysis
+- Protocol and ecosystem risk
 
 ---
 
-🧠 Research Methodology
+## 📚 Selected Research
 
-EMMYCRYPT follows a structured research process:
+### 001 — Ethereum DeFi: Is Activity Moving to L2s While Liquidity Stays on Mainnet?
 
-1. Identify
-Define the research question, protocol, asset, ecosystem, or market event.
+A research investigation into Ethereum DeFi activity, L2 execution, liquidity, stablecoins, and capital concentration.
 
-2. Collect
-Gather relevant on-chain data, project documentation, market information, and publicly available sources.
+The research examines an important distinction:
 
-3. Analyze
-Examine transaction activity, tokenomics, protocol mechanics, market behavior, and relevant metrics.
+**Where transactions happen is not necessarily the same as where capital is concentrated.**
 
-4. Verify
-Cross-check important findings against multiple reliable sources whenever possible.
-
-5. Document
-Present the evidence, methodology, observations, and conclusions in a structured research format.
+[Read the research →](001-ethereum-l2.md)
 
 ---
 
-📊 Featured Investigations
+### 002 — AAVE: What Actually Drives the Protocol?
 
-Research projects will be published here as the EMMYCRYPT portfolio develops.
+An investigation into AAVE beyond its headline TVL.
 
-Planned Research Areas
+The research examines protocol activity, borrowing, utilization, fees, revenue, AAVE token economics, governance, competition, and the relationship between protocol growth and token value capture.
 
-- DeFi protocol investigations
-- Tokenomics breakdowns
-- On-chain wallet analysis
-- Protocol risk research
-- Market intelligence reports
-- Ecosystem research
-- Emerging Web3 narratives
+The central question is not simply whether AAVE is growing, but how that activity connects to the protocol and its token economics.
+
+[Read the research →](002-aave.md)
 
 ---
 
-📚 Research Reports
+### 003 — Follow the Money: An On-Chain Wallet Investigation
 
-This repository will contain research reports, analytical notes, datasets, and supporting evidence from EMMYCRYPT investigations.
+An on-chain investigation into significant Solana wallet movements, exchange flows, staking wallets, Binance-related movements, and unidentified public addresses.
 
-Each major investigation will aim to clearly separate:
+The research separates directly verifiable blockchain transactions from source-reported information and avoids treating wallet transfers as proof of buying or selling.
 
-- Evidence
-- Analysis
-- Interpretation
-- Key Findings
-- Limitations
-- Sources
+**Key principle:**
 
----
+> Transfer ≠ trade.
 
-🛠️ Research Tools & Data
-
-Research may incorporate:
-
-- Blockchain explorers
-- On-chain analytics platforms
-- Protocol documentation
-- Public datasets
-- Market data
-- Tokenomics documentation
-- Open-source research tools
+[Read the research →](003-follow-the-money.md)
 
 ---
 
-📁 Repository Structure
+## 🔬 How I Work
 
-emmycrypt-research/
-│
-├── README.md
-├── research/
-├── reports/
-├── datasets/
-├── investigations/
-└── sources/
+Each investigation starts with a question.
 
----
+I then:
 
-📈 Research Philosophy
+1. Define the research question.
+2. Collect relevant blockchain, protocol, and market data.
+3. Examine the observable activity.
+4. Compare the evidence with the initial narrative.
+5. Separate evidence from interpretation.
+6. Document what the evidence supports.
+7. Clearly state what remains uncertain.
 
-«Don't follow the narrative. Investigate the evidence.»
+The goal is not to force a conclusion.
 
-EMMYCRYPT aims to produce research that is structured, transparent, evidence-based, and useful for understanding the rapidly changing Web3 ecosystem.
-
----
-
-📬 Contact
-
-For research collaboration, opportunities, or professional inquiries:
-
-EMMYCRYPT
-
-- LinkedIn: https://www.linkedin.com/in/emmanuel-chinonso-824602213
-- X: https://x.com/Emmycrypt221
-- GitHub: Emmycrypt001
+The goal is to understand what the evidence actually says.
 
 ---
 
-⚠️ Disclaimer
+## 🧠 Research Standard
 
-EMMYCRYPT research is provided for informational and educational purposes. Research findings are based on publicly available information and analytical interpretation and should not be considered financial advice.
+I do not treat a narrative as evidence.
+
+Where possible, I distinguish between:
+
+- Directly verifiable blockchain activity
+- Source-reported information
+- Calculated figures
+- Analytical interpretation
+- Uncertainty and limitations
+
+A transaction can show that assets moved.
+
+It does not automatically explain why they moved.
+
+Protocol activity can be substantial.
+
+It does not automatically translate into token value capture.
+
+**If the evidence does not prove a claim, I don't present the claim as fact.**
+
+The purpose of the research is to investigate what the available evidence can — and cannot — establish.
 
 ---
 
-EMMYCRYPT — Web3 Research & Intelligence
+## 📂 Research Archive
+
+More investigations will be added as the research develops.
+
+Current research areas include:
+
+- DeFi
+- On-chain intelligence
+- Tokenomics
+- Protocol research
+- Wallet analysis
+- Capital flows
+- Market intelligence
+- Ethereum and L2 ecosystems
+- Solana ecosystem
+- Risk analysis
+
+The individual research pages contain summaries of each investigation and links to the complete original research reports.
+
+---
+
+---
+
+## 🌐 Connect
+
+- [LinkedIn](https://www.linkedin.com/in/emmanuel-chinonso-824602213)
+- [X](https://x.com/Emmycrypt221)
+- [GitHub](https://github.com/Emmycrypt001)
+
+---
+
+## 📩 Contact
+
+For research collaboration, professional inquiries, or opportunities:
+
+**Email:** [emmycarenwofe@gmail.com](mailto:emmycarenwofe@gmail.com)
+
+**EMMYCRYPT**
+
+---
+
+## ⚠️ Disclaimer
+
+EMMYCRYPT research is provided for informational and educational purposes.
+
+Research findings are based on publicly available information, blockchain data, and analytical interpretation. They should not be considered financial advice.
+
+---
+
+**EMMYCRYPT Research**
+
+*Web3 Research | DeFi | On-Chain Intelligence | Tokenomics | Market Analysis*
