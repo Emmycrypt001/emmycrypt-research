@@ -379,8 +379,18 @@ It is one that clearly shows **which questions the evidence can answer — and w
 
 ---
 
+---
+
 ## Research Note
 
-**Data snapshot:** August 22, 2026.
+EMMYCRYPT does not treat a large number as proof of causation.
 
-Market data changes continuously. Figures in this report should therefore be understood as observations from the stated research period rather than permanent values.
+The purpose of this investigation is not to tell the reader what to believe about Uniswap v4.
+
+It is to examine the available evidence, distinguish adoption from architectural impact, and show what the data can establish — and where the evidence stops.
+
+Where the available data could not support a claim, the claim was left unconfirmed rather than presented as fact.
+
+**EMMYCRYPT Research**
+
+*Web3 Research | DeFi | On-Chain Intelligence | Tokenomics | Market Analysis*
