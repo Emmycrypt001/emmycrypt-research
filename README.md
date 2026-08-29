@@ -66,6 +66,26 @@ The research separates directly verifiable blockchain transactions from source-r
 
 ---
 
+### 004 — Uniswap v4: Meaningful Adoption, or Just More Liquidity on a New Architecture?
+
+An evidence-based investigation into Uniswap v4 adoption, trading activity, liquidity and the economic significance of its new architecture.
+
+[Read the research →](004-uniswap-v4-adoption.md)
+
+---
+
+### 005 — FOLLOW THE CAPITAL: Bitcoin Market Structure & Capital-Flow Investigation
+
+An evidence-based investigation into Bitcoin's August 2026 recovery, examining spot ETF demand, market structure, derivatives positioning, liquidations, holder supply, cost basis, exchange supply, stablecoin liquidity, macro conditions and corporate Bitcoin treasury behaviour.
+
+The research asks whether the available evidence supports a durable Bitcoin recovery and identifies the **$83K–$86K long-term-holder supply shelf** as the central market-structure test.
+
+**Core conclusion:** Bitcoin has entered a materially stronger recovery regime, but the durability of the next leg depends on whether genuine spot demand can absorb the major supply wall without deterioration in capital flows or leverage quality.
+
+[Read the research →](005-follow-the-capital.md)
+
+---
+
 ## 🔬 How I Work
 
 Each investigation starts with a question.
@@ -130,8 +150,6 @@ Current research areas include:
 - Risk analysis
 
 The individual research pages contain summaries of each investigation and links to the complete original research reports.
-
----
 
 ---
 
